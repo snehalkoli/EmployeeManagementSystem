@@ -1,0 +1,83 @@
+const employeeData=[{
+    id:1,
+    firstName:'Snehal',
+    lastName:'Koli',
+    email:'snehal123@gmail.com',
+    salary:'500000',
+    date:'2022-04-09'
+},
+{
+    id:2,
+    firstName:'Ankita',
+    lastName:'Thorat',
+    email:'ankita@123@gmail.com',
+    salary:'500000',
+    date:'2022-04-09'
+},
+{
+    id:3,
+    firstName:'Priti',
+    lastName:'Jadhav',
+    email:'priti@123@gmail.com',
+    salary:'500000',
+    date:'2022-04-09'
+},
+{
+    id:4,
+    firstName:'Shrutika',
+    lastName:'Kulamure',
+    email:'shrutika@123@gmail.com',
+    salary:'500000',
+    date:'2022-04-09'
+},
+{
+    id:5,
+    firstName:'Akash',
+    lastName:'Koli',
+    email:'akash@123@gmail.com',
+    salary:'500000',
+    date:'2022-04-09'
+},
+{
+    id:6,
+    firstName:'Rushikesh',
+    lastName:'Koli',
+    email:'rushikesh@123@gmail.com',
+    salary:'500000',
+    date:'2022-04-09'
+},
+{
+    id:7,
+    firstName:'Jagruti',
+    lastName:'Koli',
+    email:'jagruti@123@gmail.com',
+    salary:'500000',
+    date:'2022-04-09'
+},
+{
+    id:8,
+    firstName:'Anvi',
+    lastName:'Koli',
+    email:'anvi@123@gmail.com',
+    salary:'500000',
+    date:'2022-04-09'
+},
+{
+    id:9,
+    firstName:'Sanvi',
+    lastName:'Koli',
+    email:'sanvi@123@gmail.com',
+    salary:'500000',
+    date:'2022-04-09'
+},
+{
+    id:10,
+    firstName:'Shwetali',
+    lastName:'Patil',
+    email:'shwetali@123@gmail.com',
+    salary:'500000',
+    date:'2022-04-09'
+},
+
+];
+export {employeeData};
